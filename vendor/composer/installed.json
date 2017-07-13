@@ -1,0 +1,43 @@
+[
+    {
+        "name": "bueltge/must-use-loader",
+        "version": "1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/bueltge/must-use-loader.git",
+            "reference": "b272800e4d7825897d8b2cf8854ae70d051254d3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/bueltge/must-use-loader/zipball/b272800e4d7825897d8b2cf8854ae70d051254d3",
+            "reference": "b272800e4d7825897d8b2cf8854ae70d051254d3",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6"
+        },
+        "time": "2017-02-21 20:14:02",
+        "type": "wordpress-muplugin",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Frank Bültge",
+                "email": "frank@bueltge.de",
+                "homepage": "https://bueltge.de",
+                "role": "Developer"
+            }
+        ],
+        "description": "Load Must-Use Plugins inside subdirectories with caching. For delete the cache: if you view the Must Use plugin list in the network administration.",
+        "homepage": "https://github.com/bueltge/must-use-loader",
+        "keywords": [
+            "loader",
+            "plugin",
+            "wordpress"
+        ]
+    }
+]
